@@ -1,10 +1,20 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: 1st Place CTF Challenge in Informationssicherheit
+  organization: University of Bremen
+  year: # Add specific year
+  summary: Achieved 1st place with team out of 130 students in the CTF (Capture The Flag) Challenge in Information Security, demonstrating exceptional cybersecurity skills and teamwork.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 1st Prize Best Website in Medieninformatik
+  organization: University of Bremen
+  year: # Add specific year
+  summary: Awarded 1st prize with team among 480 students for best website in the Media Informatics course, showcasing outstanding web development and design capabilities.
+
+- award: Bachelor Thesis Excellence
+  organization: University of Bremen
+  year: 2025
+  summary: Achieved grade 1.0 on Bachelor thesis "Design and Implementation of a Code Analysis Tool for Detecting Simple Synchronization Issues in C++ Code Fragments".
+
+- award: Academic Excellence
+  organization: University of Bremen
+  year: 2025
+  summary: Graduated with final grade average of 1.56 from Bachelor of Science in Computer Science program.

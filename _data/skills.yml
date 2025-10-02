@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Software Engineering & Web Development
+- skill: Software Engineering & Web Development
+  description: Extensive experience in full-stack development, awarded 1st prize among 480 students for best website in Media Informatics. Skilled in web technologies, software architecture, and development best practices.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Systems & Theoretical Computer Science
+- skill: Systems & Theoretical Computer Science
+  description: Strong foundation in algorithm theory, automata and formal languages, concurrency, operating systems, and complexity theory. Applied theoretical knowledge in practical development scenarios.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technical Computer Science & Security
+- skill: Technical Computer Science & Security
+  description: Expertise in computer architecture, digital circuits, embedded systems, and information security. Demonstrated through 1st place finish in CTF Challenge among 130 students.
+
+# Applied Technologies & AI
+- skill: Applied Technologies & AI
+  description: Practical experience in database modeling, artificial intelligence, and media informatics. Applied these skills across multiple academic and professional projects.
+
+# Project Management & Leadership
+- skill: Project Management & Leadership
+  description: Complementary training in project management, blockchain, supply chain management, organizational leadership, and digital rhetoric. Experience leading end-to-end client projects at K-Evolution GmbH.
+
+# Agile Development & Code Quality
+- skill: Agile Development & Code Quality
+  description: Experience working in cross-functional agile teams, participating in code reviews, and delivering production-quality code across multiple professional environments.

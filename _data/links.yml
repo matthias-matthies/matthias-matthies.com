@@ -1,5 +1,4 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+# Add your own links here following this format:
+# - url: "#"
+#   description: Link description

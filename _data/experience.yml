@@ -5,6 +5,12 @@
   duration: Aug, 2025 &mdash; Present
   summary: Combining advanced studies at FH Wedel with practical experience in aviation IT and digitalization at Lufthansa Technik. Working on cutting-edge technology solutions in the aviation industry.
 
+# Thesis Focus Period
+- company: Thesis Focus Period
+  position: Student
+  duration: Jun, 2025 &mdash; Jul, 2025
+  summary: Full-time research and writing period for Bachelor thesis on code analysis tools for C++ synchronization issues
+
 # Software Developer
 - company: encoway GmbH
   position: Software Developer
@@ -16,9 +22,3 @@
   position: Software Developer
   duration: Aug, 2018 &mdash; Dec, 2024
   summary: Responsible for a wide range of web and backend development tasks, led and supported end-to-end client projects, delivering production-quality code. <ul class="resume-item-list"><li>Full-stack web development</li><li>Backend system architecture</li><li>Client project management</li></ul>
-
-# Thesis Focus Period
-# - company: # Independent Research
-#   position: # Bachelor Thesis Researcher
-#   duration: Jun, 2025 &mdash; Jul, 2025
-#   summary: # Full-time research and writing period for Bachelor thesis on code analysis tools for C++ synchronization issues

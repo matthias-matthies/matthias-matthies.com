@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Computer Science
+  uni: University of Bremen, Faculty 3 (Mathematics and Computer Science)
+  year: 2022 &mdash; 2025
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Final grade average 1.56
+    - award: Bachelor thesis grade 1.0 
+  summary: Developed solid foundation in core computer science areas with specialization in Software Engineering (including Web Development), Systems & Theoretical Computer Science, Technical Computer Science, and Applied Areas. Awarded 1st prize among 480 students for best website in Media Informatics course.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# Currently pursuing (if applicable)
+# - degree: Master of Science, Computer Science 
+#   uni: FH Wedel
+#   year: 2025 &mdash; Present (dual program with Lufthansa Technik)
+#   awards:
+#     - award: # Add awards if any
+#   summary: # Add details about master's program focus

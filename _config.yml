@@ -14,7 +14,7 @@ resume_name:                    "Matthias Matthies"
 resume_title:                   "Software Developer & Computer Science Graduate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "matthias.matthies1098@gmail.com"
+resume_contact_email:           "arbeit@matthias-matthies.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "# Add phone number"
@@ -29,7 +29,7 @@ resume_header_intro: "<p>Computer Science graduate with a Bachelor's degree from
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide

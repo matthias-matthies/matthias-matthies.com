@@ -10,7 +10,8 @@
 # Currently pursuing (if applicable)
 - degree: Master of Science, Computer Science
   uni: University of Applied Science Wedel
-  year: 2025 &mdash; Present (coop program with Lufthansa Technik)
+  year: 2025 &mdash; Present
   awards:
-    - award: # Add awards if any
-  summary: # Add details about master's program focus
+    - award: Final grade average  - # Add awards if any
+    - award: Master thesis grade  - # Add awards if any
+  summary: Co-op program with Lufthansa Technik # Add details about master's program focus

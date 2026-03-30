@@ -2,8 +2,23 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Add your own projects here following this format:
-# - project: Project Name
-#   role: Your Role
-#   duration: Time Period
-#   # url: "#"
-#   description: Brief description of the project and your contributions.
+- project: Code Analysis Tool to Detect Simple Synchronization Issues in C++ Code Fragments 
+  role: Solo Project
+  duration: Bachelors Thesis
+  # url: "#"
+  description: Created a hybrid code analysis tool that uses different static and dynamic technologies to analyse small C++ code fragments.
+
+- project: Components for low-power rapid development in the internet of things
+  role: Project Member
+  duration: 10 Months
+  description: 
+
+- project: RAG Chatbot FH Wedel
+  role: Project Member
+  duration: 6 Months 
+  description: Chatbot for the university of applied science wedel using different technologies.
+
+- project: CBOR in Rust
+  role: Solo Project
+  duration: 3 Months
+  description: Created a RFC 8949 satisfying library in Rust.

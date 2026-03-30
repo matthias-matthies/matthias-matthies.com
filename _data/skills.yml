@@ -4,20 +4,12 @@
   description: Extensive experience in full-stack development, awarded 1st prize among 480 students for best website in Media Informatics. Skilled in web technologies, software architecture, and development best practices.
 
 # Systems & Theoretical Computer Science
-- skill: Systems & Theoretical Computer Science
-  description: Strong foundation in algorithm theory, automata and formal languages, concurrency, operating systems, and complexity theory. Applied theoretical knowledge in practical development scenarios.
-
-# Technical Computer Science & Security
-- skill: Technical Computer Science & Security
-  description: Expertise in computer architecture, digital circuits, embedded systems, and information security. Demonstrated through 1st place finish in CTF Challenge among 130 students.
-
-# Applied Technologies & AI
-- skill: Applied Technologies & AI
-  description: Practical experience in database modeling, artificial intelligence, and media informatics. Applied these skills across multiple academic and professional projects.
+- skill: Technical & Theoretical Computer Science
+  description: Strong foundation in algorithm theory, automata and formal languages, concurrency, operating systems, complexity theory and information security. Applied theoretical knowledge in practical development scenarios.
 
 # Project Management & Leadership
 - skill: Project Management & Leadership
-  description: Complementary training in project management, blockchain, supply chain management, organizational leadership, and digital rhetoric. Experience leading end-to-end client projects at K-Evolution GmbH.
+  description: Complementary training in project management, organizational leadership, and digital rhetoric. Experience leading end-to-end client projects at K-Evolution GmbH.
 
 # Agile Development & Code Quality
 - skill: Agile Development & Code Quality

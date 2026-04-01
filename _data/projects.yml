@@ -3,15 +3,15 @@
 
 # Add your own projects here following this format:
 - project: Code Analysis Tool to Detect Simple Synchronization Issues in C++ Code Fragments 
-  role: Solo Project
-  duration: Bachelors Thesis
+  role: Bachelors Thesis
+  duration: 3 Months
   # url: "#"
-  description: Created a hybrid code analysis tool that uses different static and dynamic technologies to analyse small C++ code fragments.
+  description: Created a hybrid code analysis tool that uses different static and dynamic analysis technologies to detect concurrency issues in C++ code fragments.
 
 - project: Components for low-power rapid development in the internet of things
   role: Project Member
   duration: 10 Months
-  description: 
+  description: Universitry Bachelors Project in which a group of 20 Students created a Rust framework to enable rapid develop of IoT devices using modern technologies. My focus in this project was the discovery library used for automatic discovery once a device is registered in a network. Also 3 workshops teaching project members the caviats of Rust.
 
 - project: Integration-Testing Framework for legacy C and C++ Modules of Luxury Aviation Entertainment Systems
   role: Solo Project (under guidance)

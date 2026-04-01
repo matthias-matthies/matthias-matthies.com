@@ -1,17 +1,17 @@
+# Currently pursuing (if applicable)
+- degree: Master of Science, Computer Science
+  uni: University of Applied Science Wedel
+  year: 2025 &mdash; Mar, 2027
+  awards:
+    - award: Final grade # Add awards if any
+    - award: Master thesis grade  # Add awards if any
+  summary: Co-op program with Lufthansa Technik # Add details about master's program focus
+
 # Degree
 - degree: Bachelor of Science, Computer Science
   uni: University of Bremen, Faculty 3 (Mathematics and Computer Science)
   year: 2022 &mdash; 2025
   awards:
-    - award: Final grade average 1.56
+    - award: Final grade 1.56
     - award: Bachelor thesis grade 1.0
   summary: Developed solid foundation in core computer science areas with specialization in Software Engineering, Systems & Theoretical Computer Science, Technical Computer Science, and Applied Areas.
-
-# Currently pursuing (if applicable)
-- degree: Master of Science, Computer Science
-  uni: University of Applied Science Wedel
-  year: 2025 &mdash; Present
-  awards:
-    - award: Final grade average  - # Add awards if any
-    - award: Master thesis grade  - # Add awards if any
-  summary: Co-op program with Lufthansa Technik # Add details about master's program focus

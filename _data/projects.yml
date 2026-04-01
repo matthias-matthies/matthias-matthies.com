@@ -13,12 +13,17 @@
   duration: 10 Months
   description: 
 
+- project: Integration-Testing Framework for legacy C and C++ Modules of Luxury Aviation Entertainment Systems
+  role: Solo Project (under guidance)
+  duration: 2 Months
+  description: Developed a python framework that can be used to test legacy C and C++ legacy modules in a very restricted Linux environment using Python, Pytest, Docker and Linux System Service in an End-to-End fashion for single modules and sets of modules. 
+
 - project: RAG Chatbot FH Wedel
   role: Project Member
-  duration: 6 Months 
-  description: Chatbot for the university of applied science wedel using different technologies.
+  duration: 3 Months 
+  description: Chatbot for the University of Applied Science Wedel using different technologies and modern architecture such as RAG, reranking, function calling and vector stores (hybrid of dense and sparse).
 
 - project: CBOR in Rust
   role: Solo Project
   duration: 3 Months
-  description: Created a RFC 8949 satisfying library in Rust.
+  description: Planned and implemented a RFC 8949 satisfying library in Rust. Beating existing libraries in decoding throughput by about 11%.

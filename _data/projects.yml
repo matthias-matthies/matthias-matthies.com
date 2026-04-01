@@ -3,22 +3,22 @@
 
 # Add your own projects here following this format:
 - project: Code Analysis Tool to Detect Simple Synchronization Issues in C++ Code Fragments 
-  role: Solo Project
-  duration: Bachelors Thesis
+  role: Bachelors Thesis
+  duration: 3 Months
   # url: "#"
   description: Created a hybrid code analysis tool that uses different static and dynamic technologies to analyse small C++ code fragments.
 
 - project: Components for low-power rapid development in the internet of things
   role: Project Member
   duration: 10 Months
-  description: 
+  description: Universitry Bachelors Project in which a group of 20 Students created a Rust framework to enable rapid develop of IoT devices using modern technologies. My focus in this project was the discovery library used for automatic discovery once a device is registered in a network. Also 3 workshops teaching project members the caviats of Rust.
 
 - project: RAG Chatbot FH Wedel
   role: Project Member
   duration: 6 Months 
-  description: Chatbot for the university of applied science wedel using different technologies.
+  description: Chatbot for the University of Applied Science Wedel using different technologies and modern architecture such as RAG, reranking and vector stores (hybrid of dense and sparse vectores).
 
 - project: CBOR in Rust
   role: Solo Project
   duration: 3 Months
-  description: Created a RFC 8949 satisfying library in Rust.
+  description: Planned and implemented a RFC 8949 satisfying library in Rust. Beating existing libraries in decoding throughput by about 11%.

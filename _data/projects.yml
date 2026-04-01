@@ -6,7 +6,7 @@
   role: Bachelors Thesis
   duration: 3 Months
   # url: "#"
-  description: Created a hybrid code analysis tool that uses different static and dynamic technologies to analyse small C++ code fragments.
+  description: Created a hybrid code analysis tool that uses different static and dynamic analysis technologies to detect concurrency issues in C++ code fragments.
 
 - project: Components for low-power rapid development in the internet of things
   role: Project Member

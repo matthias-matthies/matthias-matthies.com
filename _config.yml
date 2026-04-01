@@ -1,6 +1,6 @@
 # Site settings
 title: "Matthias Matthies - Resume"
-description: "Professional resume of Matthias Matthies - Computer Science graduate and Software Developer."
+description: "Professional resume of Matthias Matthies - Computer Science Student and Software Developer."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Matthias Matthies"
-resume_title:                   "Software Developer & Computer Science Graduate"
+resume_title:                   "Software Developer & Computer Science Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "arbeit@matthias-matthies.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Hamburg, Germany"
 resume_header_contact_info:     "Hamburg, Germany • arbeit@matthias-matthies.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Computer Science graduate with a Bachelor's degree from University of Bremen (final grade 1.56). Currently pursuing a dual Master's program at FH Wedel while working as a Masters Student at Lufthansa Technik. Experienced software developer with over 6 years of professional experience in web and backend development. Active volunteer firefighter with Freiwillige Feuerwehr Tiste since 2016.</p>"
+resume_header_intro: "<p>Computer Science graduate with a Bachelor's degree from University of Bremen. Currently pursuing a dual Master's program at FH Wedel while working as a Masters Student at Lufthansa Technik. Experienced software developer with over 6 years of professional experience in web and backend development. Active volunteer firefighter since 2016.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

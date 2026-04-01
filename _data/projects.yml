@@ -16,7 +16,7 @@
 - project: Integration-Testing Framework for legacy C and C++ Modules of Luxury Aviation Entertainment Systems
   role: Solo Project (under guidance)
   duration: 2 Months
-  description: Developed a python framework that can be used to test legacy C and C++ legacy modules in a very restricted Linux environment using Python, Pytest, Docker and Linux System Service in an End-to-End fashion for single modules and sets of modules. 
+  description: Developed a python framework that can be used to test legacy C and C++ modules in a restricted Linux environment using Python, Pytest, Docker and Linux System Service in an End-to-End fashion for single modules and sets of modules. 
 
 - project: RAG Chatbot FH Wedel
   role: Project Member

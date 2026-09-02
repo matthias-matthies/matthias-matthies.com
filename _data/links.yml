@@ -1,4 +1,6 @@
 # links
-# Add your own links here following this format:
-# - url: "#"
-#   description: Link description
+- url: "https://www.linkedin.com/in/matthias-matthies"
+  description: LinkedIn
+
+- url: "https://github.com/matthias-matthies"
+  description: GitHub

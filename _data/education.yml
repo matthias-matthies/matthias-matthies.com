@@ -1,16 +1,16 @@
 # Currently pursuing (if applicable)
 - degree: Master of Science, Computer Science
   uni: University of Applied Science Wedel
-  year: Oct, 2025 &mdash; Mar, 2027
+  year: Oct 2025 &mdash; Mar 2027
   awards:
-    - award: Final grade # Add awards if any
-    - award: Master thesis grade  # Add awards if any
-  summary: Co-op program with Lufthansa Technik # Add details about master's program focus
+    - award: Current grade 1.67 # Add awards if any
+    - award: Master thesis to be finished # Add awards if any
+  summary: "Co-op program with Lufthansa Technik. Master's thesis: \"Representation, Enforcement and Calibration of Software Development Guidelines for AI Coding Agents. A Design Science Study in a Regulated Aviation MRO Context.\""
 
 # Degree
 - degree: Bachelor of Science, Computer Science
   uni: University of Bremen, Faculty 3 (Mathematics and Computer Science)
-  year: Oct, 2022 &mdash; Sep, 2025
+  year: Oct 2022 &mdash; Sep 2025
   awards:
     - award: Final grade 1.56
     - award: Bachelor thesis grade 1.0

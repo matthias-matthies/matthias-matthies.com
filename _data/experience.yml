@@ -1,24 +1,31 @@
 # Jobs
+# Start-up experience
+#Clever-SEV is a multi-tenant B2B SaaS platform that digitizes Schienenersatzverkehr (German rail-replacement bus service) — connecting transit authorities and bus operators through tendering, bidding, and billing, and extending into the physical vehicle via AI-generated stop announcements (ElevenLabs TTS, auto-triggered on tender publish) delivered to Raspberry Pi onboard devices in each contractor's buses.
+- company: Clever-SEV
+  position: CTO & Co-Founder
+  duration: Apr 2026 &mdash; now
+  summary: As co-founder and CTO, I designed and built the platform end-to-end. The dual-layer tenant-isolation security architecture, the core marketplace domain model, and the AI/hardware pipeline that turns a published tender directly into in-vehicle audio, cloud-deployed with data residency in Germany.
+
 # Masters Student (dual/co-op role)
 - company: Lufthansa Technik
   position: Masters Student (dual/co-op role)
-  duration: Aug, 2025 &mdash; Mar, 2027
-  summary: Combining advanced studies at FH Wedel with practical experience in aviation IT and digitalization at Lufthansa Technik. Working on modernization and digitalization of either legacy or analog systems.
+  duration: Aug 2025 &mdash; now
+  summary: 'Combining advanced studies at FH Wedel with practical experience in aviation IT and digitalization at Lufthansa Technik, rotating across engineering and security teams. <ul class="resume-item-list"><li>Embedded development department: built a Python-based subsystem testing framework for legacy C++ services running on airplane hardware and in-flight entertainment systems</li><li>Cloud Security team: contributed to major decisions on selecting cloud security service providers, including Wiz and Orca Security</li><li>deMROp team: contributed to projects building digitally enabled MRO (Maintenance, Repair &amp; Overhaul) products, as well as digitalizing and optimizing legacy business workflows</li></ul>'
 
 # Thesis Focus Period
 - company: Thesis Focus Period
   position: Student
-  duration: Jun, 2025 &mdash; Jul, 2025
+  duration: Jun 2025 &mdash; Jul 2025
   summary: Full-time research and writing period for Bachelor thesis on code analysis tools for C++ synchronization issues
 
 # Software Developer
 - company: encoway GmbH
   position: Software Developer
-  duration: Jan, 2025 &mdash; May, 2025
+  duration: Jan 2025 &mdash; May 2025
   summary: Developed and maintained software solutions for industrial clients, contributed to cross-functional agile teams and participated in code reviews. Focused on delivering high-quality software solutions.
 
 # Software Developer
 - company: K-Evolution GmbH
   position: Software Developer
-  duration: Aug, 2018 &mdash; Dec, 2024
+  duration: Aug 2018 &mdash; Dec 2024
   summary: Responsible for a wide range of web and backend development tasks, led and supported end-to-end client projects, delivering production-quality code. <ul class="resume-item-list"><li>Full-stack web development</li><li>Backend system architecture</li><li>Client project management</li></ul>

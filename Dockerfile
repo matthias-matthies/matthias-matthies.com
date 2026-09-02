@@ -1,11 +1,21 @@
-FROM ruby:2.7
+FROM ruby:2.7-slim
 
-WORKDIR /home/app
+RUN apt-get update -qq && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    libxml2-dev \
+    libxslt-dev \
+    zlib1g-dev \
+    pkg-config \
+    && rm -rf /var/lib/apt/lists/*
 
-COPY Gemfile* ./
+WORKDIR /site
 
+COPY Gemfile Gemfile.lock ./
 RUN bundle install
 
 COPY . .
 
-CMD [ "bundle", "exec", "jekyll", "serve" ]
+EXPOSE 4000 35729
+
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload", "--force_polling"]

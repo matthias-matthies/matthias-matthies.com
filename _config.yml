@@ -36,24 +36,24 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-# resume_section_skills:          true
+resume_section_skills:          true
 resume_section_recognition:     true
-# resume_section_links:           true
+#resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/matthias-matthies"
+#resume_social_links:
+  #resume_github_url:            "https://github.com/matthias-matthies"
   # resume_twitter_url:           "http://twitter.com/username"
   # resume_dribbble_url:          "https://dribbble.com/username"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/matthias-matthies"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/matthias-matthies"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://matthias-matthies.com"
   # resume_medium_url:            "https://medium.com/@username"
-resume_print_social_links:      true
+#resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default

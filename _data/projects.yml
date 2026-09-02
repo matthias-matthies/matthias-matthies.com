@@ -11,7 +11,7 @@
 - project: Components for low-power rapid development in the internet of things
   role: Project Member
   duration: 10 Months
-  description: Universitry Bachelors Project in which a group of 20 Students created a Rust framework to enable rapid develop of IoT devices using modern technologies. My focus in this project was the discovery library used for automatic discovery once a device is registered in a network. Also 3 workshops teaching project members the caviats of Rust.
+  description: University Bachelors Project in which a group of 20 Students created a Rust framework to enable rapid develop of IoT devices using modern technologies. My focus in this project was the discovery library used for automatic discovery once a device is registered in a network. Also 3 workshops teaching project members the caveats of Rust.
 
 - project: Integration-Testing Framework for legacy C and C++ Modules of Luxury Aviation Entertainment Systems
   role: Solo Project (under guidance)

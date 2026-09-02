@@ -1,16 +1,13 @@
 # Skills
-# Software Engineering & Web Development
-#- skill: Software Engineering & Web Development
-#  description: Extensive experience in full-stack development, awarded 1st prize among 480 students for best website in Media Informatics. Skilled in web technologies, software architecture, and development best practices.
 
-# Systems & Theoretical Computer Science
-#- skill: Technical & Theoretical Computer Science
-#  description: Strong foundation in algorithm theory, automata and formal languages, concurrency, operating systems, complexity theory and information security. Applied theoretical knowledge in practical development scenarios.
+- skill: Software Engineering & Full-Stack Development
+  description: 6+ years building production web and backend systems in PHP or JavaScript from client projects at K-Evolution and encoway to architecting the Clever-SEV platform end-to-end as CTO.
 
-# Project Management & Leadership
-#- skill: Project Management & Leadership
-#  description: Complementary training in project management, organizational leadership, and digital rhetoric. Experience leading end-to-end client projects at K-Evolution GmbH.
+- skill: Cloud & Application Security
+  description: Contributed to cloud security service provider selection at Lufthansa Technik; designed dual-layer tenant-isolation security architecture for Clever-SEV; 1st place in a university-wide Information Security CTF.
 
-# Agile Development & Code Quality
-#- skill: Agile Development & Code Quality
-#  description: Experience working in cross-functional agile teams, participating in code reviews, and delivering production-quality code across multiple professional environments.
+- skill: Systems Testing & Legacy Integration
+  description: Built Python-based testing frameworks (Pytest, Docker, Linux system services) to validate legacy C and C++ modules end-to-end, running on airplane hardware and custom, VIP in-flight entertainment systems.
+
+- skill: Project Leadership & Agile Delivery
+  description: Led end-to-end client projects and cross-functional agile teams at K-Evolution; founded and led Clever-SEV as CTO from concept to deployed product.

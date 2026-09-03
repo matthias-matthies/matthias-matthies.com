@@ -1,11 +1,4 @@
 # Jobs
-# Start-up experience
-#Clever-SEV is a multi-tenant B2B SaaS platform that digitizes Schienenersatzverkehr (German rail-replacement bus service) — connecting transit authorities and bus operators through tendering, bidding, and billing, and extending into the physical vehicle via AI-generated stop announcements (ElevenLabs TTS, auto-triggered on tender publish) delivered to Raspberry Pi onboard devices in each contractor's buses.
-- company: Clever-SEV
-  position: CTO & Co-Founder
-  duration: Apr 2026 &mdash; now
-  summary: As co-founder and CTO, I designed and built the platform end-to-end. The dual-layer tenant-isolation security architecture, the core marketplace domain model, and the AI/hardware pipeline that turns a published tender directly into in-vehicle audio, cloud-deployed with data residency in Germany.
-
 # Masters Student (dual/co-op role)
 - company: Lufthansa Technik
   position: Masters Student (dual/co-op role)

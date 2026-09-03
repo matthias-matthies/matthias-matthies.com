@@ -3,22 +3,10 @@
 - company: Lufthansa Technik
   position: Masters Student (dual/co-op role)
   duration: Aug 2025 &mdash; now
-  summary: 'Combining advanced studies at FH Wedel with practical experience in aviation IT and digitalization at Lufthansa Technik, rotating across engineering and security teams. <ul class="resume-item-list"><li>Embedded development department: built a Python-based subsystem testing framework for legacy C++ services running on airplane hardware and in-flight entertainment systems</li><li>Cloud Security team: contributed to major decisions on selecting cloud security service providers, including Wiz and Orca Security</li><li>deMROp team: contributed to projects building digitally enabled MRO (Maintenance, Repair &amp; Overhaul) products, as well as digitalizing and optimizing legacy business workflows</li></ul>'
-
-# Thesis Focus Period
-- company: Thesis Focus Period
-  position: Student
-  duration: Jun 2025 &mdash; Jul 2025
-  summary: Full-time research and writing period for Bachelor thesis on code analysis tools for C++ synchronization issues
-
-# Software Developer
-- company: encoway GmbH
-  position: Software Developer
-  duration: Jan 2025 &mdash; May 2025
-  summary: Developed and maintained software solutions for industrial clients, contributed to cross-functional agile teams and participated in code reviews. Focused on delivering high-quality software solutions.
+  summary: 'Combining advanced studies at FH Wedel with practical experience in aviation IT and digitalization at Lufthansa Technik, rotating across engineering and security teams. <ul class="resume-item-list"><li>Embedded development department: built a Python-based subsystem testing framework (Pytest, Docker, Linux system services) bringing end-to-end test coverage to legacy C and C++ services running on airplane hardware and in-flight entertainment systems</li><li>Cloud Security team: one of two engineers evaluating cloud security platforms &mdash; Wiz, Orca Security, GitHub Advanced Security and Snyk &mdash; through feature analysis and vendor engagement, leading to the selection of Wiz</li><li>deMROp team: contributed to projects building digitally enabled MRO (Maintenance, Repair &amp; Overhaul) products, as well as digitalizing and optimizing legacy business workflows</li></ul>'
 
 # Software Developer
 - company: K-Evolution GmbH
-  position: Software Developer
+  position: Software Developer &bull; Apprenticeship to Developer
   duration: Aug 2018 &mdash; Dec 2024
-  summary: Responsible for a wide range of web and backend development tasks, led and supported end-to-end client projects, delivering production-quality code. <ul class="resume-item-list"><li>Full-stack web development</li><li>Backend system architecture</li><li>Client project management</li></ul>
+  summary: 'Six years of full-stack and backend development, beginning with an apprenticeship as Fachinformatiker f&uuml;r Anwendungsentwicklung (2018&ndash;2021) and continuing as a developer, part-time alongside the Bachelor''s degree from 2022. Ran client projects end to end as sole developer. <ul class="resume-item-list"><li>Owned projects from first client conversation through scoping, architecture and estimation to implementation and delivery</li><li>Built an interactive real-time multiplayer online escape game, synchronising player state via Server-Sent Events and APIs</li><li>Built a website widget used during a live television broadcast, letting the audience join by QR code and answer quiz questions in real time</li><li>API integrations, data transformation pipelines and general web development</li><li>PHP and Laravel, JavaScript and Vue</li></ul>'

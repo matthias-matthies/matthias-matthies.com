@@ -1,6 +1,6 @@
 # Site settings
 title: "Matthias Matthies - Resume"
-description: "Professional resume of Matthias Matthies - Computer Science Student and Software Developer."
+description: "Resume of Matthias Matthies - software engineer, backend and application security, based in Hamburg, Germany."
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,18 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Matthias Matthies"
-resume_title:                   "Software Developer & Computer Science Student"
+resume_title:                   "Software Engineer &middot; Backend, Cloud &amp; Application Security"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "arbeit@matthias-matthies.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "# Add phone number"
 resume_contact_address:         "Hamburg, Germany"
 
 resume_header_contact_info:     "Hamburg, Germany • arbeit@matthias-matthies.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Computer Science graduate with a Bachelor's degree from University of Bremen. Currently pursuing a dual Master's program at FH Wedel while working as a Masters Student at Lufthansa Technik. Experienced software developer with over 6 years of professional experience in web and backend development. Active volunteer firefighter since 2016.</p>"
+resume_header_intro: "<p>Software engineer with six years of professional experience &mdash; from a Fachinformatiker apprenticeship to running client projects end to end as sole developer, from first client conversation to deployed system. Bachelor of Science in Computer Science from the University of Bremen; currently completing a Master's at the University of Applied Sciences Wedel as a co-op student at Lufthansa Technik, working across embedded development, cloud security and MRO digitalization. Volunteer firefighter since 2016.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,22 +37,22 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-#resume_section_links:           true
+resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-#resume_social_links:
-  #resume_github_url:            "https://github.com/matthias-matthies"
+resume_social_links:
+  resume_github_url:            "https://github.com/matthias-matthies"
   # resume_twitter_url:           "http://twitter.com/username"
   # resume_dribbble_url:          "https://dribbble.com/username"
   # resume_facebook_url:          "insert Facebook URL here"
-  #resume_linkedin_url:          "https://www.linkedin.com/in/matthias-matthies"
+  resume_linkedin_url:          "https://www.linkedin.com/in/matthias-matthies"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://matthias-matthies.com"
   # resume_medium_url:            "https://medium.com/@username"
-#resume_print_social_links:      true
+resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
